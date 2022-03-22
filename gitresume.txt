@@ -5,3 +5,7 @@
 
 Al guardar el codigo vscode reconocera sus cambios y podra realizar el commit y el push para subir
 para subir el codigo.
+
+Si no aparece el boton de Sync, para sincronizar los cambios 
+git branch --unset-upstream
+
