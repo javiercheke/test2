@@ -1,0 +1,7 @@
+1. Desde github crear un repositorio vacio, copiar la url.
+2. Desde vscode desde source control, clic en clonar repository , pegar la url.
+3. Seleccione la ubicacion en su disco donde se creará el repositorio.
+4. Cree su estructura de carpetas y fichero para su proyecto.
+
+Al guardar el codigo vscode reconocera sus cambios y podra realizar el commit y el push para subir
+para subir el codigo a la nube.
