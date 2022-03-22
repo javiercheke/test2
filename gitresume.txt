@@ -4,4 +4,4 @@
 4. Cree su estructura de carpetas y fichero para su proyecto.
 
 Al guardar el codigo vscode reconocera sus cambios y podra realizar el commit y el push para subir
-para subir el codigo.
+para subir el codigo a la nube.
